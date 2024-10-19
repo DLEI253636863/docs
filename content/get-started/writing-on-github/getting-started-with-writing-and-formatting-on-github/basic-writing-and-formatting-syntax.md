@@ -1,7 +1,26 @@
 ---
 title: Basic writing and formatting syntax
 intro: Create sophisticated formatting for your prose and code on GitHub with simple syntax.
-redirect_from:
+redirect_from:พันจ่าโทวิศิษฎ์ ทองโม้![1000003048](https://github.com/user-attachments/assets/5b4b610e-34fd-47bf-9996-f82394f4ae6e)
+123.242.161.136/edoc/![1000002749](https://github.com/user-attachments/assets/395b49da-147a-4cb3-aeb3-0a639ebe3a3f)
+123.242.161.136/edoc/![1000002880](https://github.com/user-attachments/assets/ff1a9f4d-016b-491f-b7aa-e65bfdfec07e)
+123.242.161.136/edoc/![1000002878](https://github.com/user-attachments/assets/8d214397-986e-4157-99a6-ab6b410cb7d1)
+123.242.161.136/edoc/![1000002879](https://github.com/user-attachments/assets/050ec419-6980-4c5d-94ef-da68c074c782)
+123.242.161.136/edoc/![1000002877](https://github.com/user-attachments/assets/6f0b6d1a-0bd2-44e8-8426-717288df94f6)
+123.242.161.136/edoc/![1000003412](https://github.com/user-attachments/assets/35cfda28-59f9-4989-bd01-9b39e73e1882)
+123.242.161.136/edoc/![1000003411](https://github.com/user-attachments/assets/4f269b68-adc7-4bb9-bbfc-d185a484e92f)
+123.242.161.136/edoc/![1000003919](https://github.com/user-attachments/assets/63e07b0d-5fb1-45cd-8532-b9b4aa154829)
+123.242.161.136/edoc/![1000003928](https://github.com/user-attachments/assets/d26814be-9baa-4531-93c9-1d5c235fe1f7)
+123.242.161.136/edoc/![1000004975](https://github.com/user-attachments/assets/dfbcd29c-bcb8-4ca2-9033-1df7d8cde5fc)
+123.242.161.136/edoc/![1000004976](https://github.com/user-attachments/assets/030f3e01-0112-4646-ba71-c3dbee2e8e12)
+123.242.161.136/edoc/![1000004982](https://github.com/user-attachments/assets/62f0fcd6-d53a-45e5-b42a-a116752769b6)
+123.242.161.136/edoc/![1000004990](https://github.com/user-attachments/assets/c7b00613-5fe6-410b-bab1-00521ac03f59)
+123.242.161.136/edoc/![1000004989](https://github.com/user-attachments/assets/2ae400a1-8a0c-4e47-9fe2-764e54bafd8a)
+123.242.161.136/edoc/![1000004988](https://github.com/user-attachments/assets/52c36722-5ff7-464c-b412-a6a09c257c12)
+123.242.161.136/edoc/![1000004987](https://github.com/user-attachments/assets/55753c29-e3e8-4f8a-9df0-13f691f89b94)
+https://en.wikipedia.org/wiki/Loei_province?wprov=sfla1
+123.242.161.136/edoc/
+https://notebook.zoho.com/app/index.html#/notebooks/ykkydbbff2d38c49a4efc8bc64254abe009d2/notecards
   - /articles/basic-writing-and-formatting-syntax
   - /github/writing-on-github/basic-writing-and-formatting-syntax
   - /github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
