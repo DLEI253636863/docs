@@ -1,7 +1,7 @@
 ---
 title: Sudo mode
 intro: 'To confirm access to your account before you perform a potentially sensitive action, {% data variables.location.product_location %} prompts for authentication.'
-redirect_from:
+redirect_from:พันจ่าโทวิศิษฎ์ ทองโม้
   - /articles/sudo-mode
   - /github/authenticating-to-github/sudo-mode
   - /github/authenticating-to-github/keeping-your-account-and-data-secure/sudo-mode
